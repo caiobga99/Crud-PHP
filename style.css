@@ -1,0 +1,19 @@
+@import url(./css/buttonStyle.css);
+:root {
+    --border: #0f0c29;
+    --background: linear-gradient( 95.2deg, rgba(173,252,234,1) 26.8%, rgb(161, 199, 216) 64% );;
+}
+.container {
+    color: white;
+    font-weight: bold;
+    border: 6px solid var(--border);
+    border-radius: 13px;
+    background: var(--background);
+}
+th.teste {
+    
+    color: rgb(133, 123, 123);
+}
+
+
+ 

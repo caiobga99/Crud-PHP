@@ -1,0 +1,12 @@
+.modal {
+    font-family: 'josefin sans';
+    font-size: 1.7em;
+}
+#nome,#senha {
+    width: 60%;
+}
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
